@@ -3,5 +3,5 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
      <img src="Images/DHOOP.jpg" />
-    <h1>Aishwarya gadekar</h1>
+
 </asp:Content>
