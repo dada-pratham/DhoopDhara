@@ -1,23 +1,5 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="AdminLogin.aspx.cs" Inherits="DhoopDhara.WebForm3" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-    <style>
-
-        body 
-        {
-
-             background-image: url('Images/MasterBackground.jpg'); /* Replace with your image path */
-             background-size: cover; /* Ensures the image covers the entire page */
-             background-repeat: no-repeat; /* Prevents the image from repeating */
-             background-attachment: fixed; /* Keeps the background fixed during scroll */
-             background-position: center; /* Centers the image */
-        }   
-        .card{
-            background-color: rgba(0, 0, 0, 0); /* Black background with 50% transparency */
-            border:2px solid white;
-            backdrop-filter:blur(10px)
-        }
-
-    </style>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
        <div class="container">
