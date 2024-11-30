@@ -6,7 +6,7 @@
       <link href="Bootstrap/css/bootstrap.min.css" rel="stylesheet" />
       <link href="Datatables/css/dataTables.dataTables.min.css" rel="stylesheet" />
       <link href="FontAwesome/css/all.css" rel="stylesheet" />
-      <link href="Custom%20Stylesheet/Custom.css" rel="stylesheet" />
+       <link href="Custom%20Stylesheet/Custom.css" rel="stylesheet" />
 
       <script src="Bootstrap/js/jquery-3.3.1.slim.min.js"></script>
       <script src="Bootstrap/js/popper.min.js"></script>
@@ -102,6 +102,7 @@
          <!-- Main Content Placeholder -->
          <div>
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+             
          </div>
          <!-- End Main Content Placeholder -->
          <div>
