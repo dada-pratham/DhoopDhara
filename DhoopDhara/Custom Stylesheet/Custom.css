@@ -5,11 +5,11 @@
 }
 
 
-    /* Hover effect for the icons */
-    .navbar-nav .nav-link:hover i {
+/* Hover effect for the icons */
+.navbar-nav .nav-link:hover i {
         color: #ff4500; /* Change the icon color on hover */
         transform: scale(1.1); /* Enlarge the icon slightly */
-    }
+}
 
 
 /* Styles for Search Menu */
@@ -26,28 +26,31 @@
     padding: 20px;
 }
 
-    .search-menu .search-header {
+.search-menu .search-header {
         display: flex;
         justify-content: space-between;
         align-items: center;
-    }
+}
 
-    .search-menu .close-btn {
+.search-menu .close-btn {
         background: none;
         border: none;
         font-size: 30px;
         cursor: pointer;
-    }
+}
 
-    .search-menu .form-control {
+.search-menu .form-control {
         margin-top: 30px;
-    }
+}
 
-    .search-menu .input-group-append {
+.search-menu .input-group-append {
         margin-top: 30px;
-    }
+}
 
-    /* When active, show the menu */
-    .search-menu.active {
+ /* When active, show the menu */
+.search-menu.active {
         right: 0;
-    }
+}
+
+
+
