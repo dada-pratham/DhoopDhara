@@ -2161,6 +2161,7 @@
     <Content Include="FontAwesome\svgs\solid\yen-sign.svg" />
     <Content Include="FontAwesome\svgs\solid\yin-yang.svg" />
     <Content Include="FontAwesome\svgs\solid\z.svg" />
+    <Content Include="Images\MasterBackground.jpg" />
     <Content Include="Images\Brand.jpg" />
     <Content Include="Images\DHOOP.jpg" />
     <Content Include="Images\AdminLogin.png" />
